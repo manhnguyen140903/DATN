@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7341b1e1-21f6-46a1-8af8-c54ac0d0c056" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2qiddVBzdIadZACUZ1dHQxy4t3F" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.CartManagement.executor": "Run",
+    "TestNG.ChangePassword.changePasswordwitdrongPass.executor": "Run",
+    "TestNG.ChangePassword.executor": "Run",
+    "TestNG.D:/DATN/DATN_JAVA/testng.xml.executor": "Run",
+    "TestNG.Login.executor": "Run",
+    "TestNG.Login.loginByUser.executor": "Run",
+    "TestNG.Logout.executor": "Run",
+    "TestNG.Purchase.executor": "Run",
+    "TestNG.Purchase.paymentCard.executor": "Run",
+    "TestNG.Purchase.paymentCash.executor": "Run",
+    "TestNG.Purchase.paymentWallet.executor": "Run",
+    "TestNG.Register.checkTextName.executor": "Run",
+    "TestNG.Register.checkTextPassword.executor": "Run",
+    "TestNG.Register.executor": "Run",
+    "TestNG.Register.registerByGuest.executor": "Run",
+    "TestNG.Search.executor": "Run",
+    "TestNG.Search.searchWithIncorrectName.executor": "Run",
+    "TestNG.ViewDetailAccountDetail.executor": "Run",
+    "TestNG.ViewDetailAccountDetail.viewAccountDetailCheck.executor": "Run",
+    "TestNG.ViewListOfProductsToBuy.ViewOrderHistoryHasProduct.executor": "Run",
+    "TestNG.ViewListOfProductsToBuy.executor": "Run",
+    "TestNG.ViewProductDetail.executor": "Run",
+    "TestNG.ViewProductDetail.viewProductDetailNotLoggedIn.executor": "Run",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/DATN/DATN/DATN_JAVA_2025",
+    "onboarding.tips.debug.path": "D:/DATN/DATN_JAVA/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RunManager" selected="TestNG.Search">
+    <configuration name="D:/DATN/DATN_JAVA/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DATN_JAVA" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Login" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DATN_JAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestFunction.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestFunction" />
+      <option name="MAIN_CLASS_NAME" value="TestFunction.Login" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Login.loginByUser" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DATN_JAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestFunction.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestFunction" />
+      <option name="MAIN_CLASS_NAME" value="TestFunction.Login" />
+      <option name="METHOD_NAME" value="loginByUser" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Register.registerByGuest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DATN_JAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestFunction.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestFunction" />
+      <option name="MAIN_CLASS_NAME" value="TestFunction.Register" />
+      <option name="METHOD_NAME" value="registerByGuest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Search" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DATN_JAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestFunction.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestFunction" />
+      <option name="MAIN_CLASS_NAME" value="TestFunction.Search" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.Search" />
+        <item itemvalue="TestNG.D:/DATN/DATN_JAVA/testng.xml" />
+        <item itemvalue="TestNG.Login.loginByUser" />
+        <item itemvalue="TestNG.Register.registerByGuest" />
+        <item itemvalue="TestNG.Login" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7341b1e1-21f6-46a1-8af8-c54ac0d0c056" name="Changes" comment="" />
+      <created>1735149420792</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1735149420792</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="java:io.reactivex.rxjava3:rxjava" />
+    <option featureType="dependencySupport" implementationName="java:org.seleniumhq.selenium:selenium-java" />
+    <option featureType="dependencySupport" implementationName="java:org.projectlombok:lombok" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

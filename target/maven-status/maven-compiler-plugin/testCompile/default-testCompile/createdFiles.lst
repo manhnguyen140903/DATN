@@ -1,0 +1,11 @@
+TestFunction\ViewDetailAccountDetail.class
+TestFunction\ExtentReportListener.class
+TestFunction\Search.class
+TestFunction\Logout.class
+TestFunction\ViewProductDetail.class
+TestFunction\ViewListOfProductsToBuy.class
+TestFunction\CartManagement.class
+TestFunction\Register.class
+TestFunction\Purchase.class
+TestFunction\ChangePassword.class
+TestFunction\Login.class

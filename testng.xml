@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Test Suite">
+    <listeners>
+        <!-- Sử dụng đúng package -->
+        <listener class-name="TestFunction.ExtentReportListener"/>
+    </listeners>
+
+    <test name="Test 1">
+        <classes>
+            <!-- Sử dụng đúng package -->
+            <class name="TestFunction.Search"/>
+<!--            <class name="TestFunction.Register"/>-->
+<!--            <class name="TestFunction.Login"/>-->
+<!--            <class name="TestFunction.Logout"/>-->
+<!--            <class name="TestFunction.Purchase"/>-->
+<!--            <class name="TestFunction.ViewDetailAccountDetail"/>-->
+<!--            <class name="TestFunction.ViewListOfProductsToBuy"/>-->
+<!--            <class name="TestFunction.ViewProductDetail"/>-->
+<!--            <class name="TestFunction.ChangePassword"/>-->
+
+
+
+<!--            <class name="TestFunction.CartManagement"/>-->
+
+        </classes>
+    </test>
+</suite>
